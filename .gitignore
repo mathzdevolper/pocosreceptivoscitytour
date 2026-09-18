@@ -1,0 +1,16 @@
+﻿# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Vercel local cache
+.vercel/
