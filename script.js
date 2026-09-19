@@ -6,7 +6,7 @@
 // Global Configuration
 const APP_CONFIG = {
   whatsappNumber: '5535991932025',
-  displayPhone: '(35) 9193-2025',
+  displayPhone: '(35) 99193-2025',
   guideName: 'Claudinei',
   companyName: 'Poços Receptivo City Tour'
 };
